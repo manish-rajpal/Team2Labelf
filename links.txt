@@ -1,0 +1,22 @@
+links
+https://lucid.app/lucidchart/9204f0b1-66c8-476f-b066-b6eff6fc3aa2/view?page=0_0#
+
+https://docs.google.com/spreadsheets/d/1LZAIOij54GdzYvjm5ZJMFazj6jH7w_jOxaPSpv2u0Jg/edit#gid=525106928
+
+
+https://docs.google.com/spreadsheets/d/17-tFI6LilWOn7rt_VXN7V-F64qXNBCl6ifn6tzZ0KCc/edit#gid=0
+
+http://help.labelf.ai/en/articles/5440544-setting-up-the-api
+
+https://labelf-group2.atlassian.net/jira/software/projects/LT/boards/1
+
+
+https://www.strawpoll.me/45581103/r
+
+https://github.com/manish-rajpal/Team2Labelf
+
+https://app.labelf.ai/main/49/datasets/upload
+
+Produktion:	https://app.labelf.ai/register/it-hogskolan 
+Staging:	https://stag.labelf.ai/register/it-hogskolan
+
