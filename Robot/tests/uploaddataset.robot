@@ -24,3 +24,4 @@ Test to log into app.lablef
   And user select and upload the CSV file
   And enter name and description of dataset
   Then user should able to see the uploaded dataset
+© 2021 GitHub, Inc.
