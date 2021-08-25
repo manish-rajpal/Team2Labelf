@@ -3,17 +3,17 @@ pipeline {
   stages {
     stage('Checkout') {
        steps {
-               git 'https://github.com/SubhashiniPenumatsa/fooproject/'
+               git 'https://github.com/manish-rajpal/Team2Labelf'
           }
      }
 stage ('Build') {
               steps {
-                     sh "mvn compile"
+                     bat "mvn compile"
                 }
             }
  stage('Robot') {
             steps {
-                sh 'robot --variable BROWSER:headlesschrome -d Results Tests'
+                bat 'robot --variable BROWSER:headlesschrome -d Results Tests'
             }
             post {
                 always {
